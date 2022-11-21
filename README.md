@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negar93jr
+- 👋 Hi, I’m Raziye Jafari.
 - 👀 I’m interested in python, machine learning,deep learning,AI and using them in signal processing.
 - 🌱 I’m currently learning python & machine learning.
 - 💞️ I’m looking to collaborate on ...
