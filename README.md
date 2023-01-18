@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raziye Jafari.
-- 👀 I’m interested in python, machine learning,deep learning,AI and using them in signal processing.
-- 🌱 I’m currently learning python & machine learning.
+- 👀 I’m interested in python, machine learning,deep learning,AI.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jafary.razi1993@gmail.com
 
